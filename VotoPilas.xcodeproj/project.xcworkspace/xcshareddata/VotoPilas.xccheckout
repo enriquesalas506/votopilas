@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>75E54310-0E18-4026-B3B0-415040292D7C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>VotoPilas</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E8E25ECA4B259B460C4EC6F728FE4E39835CA544</key>
+		<string>https://bitbucket.org/enriquesalas506/votopilas.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>VotoPilas.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E8E25ECA4B259B460C4EC6F728FE4E39835CA544</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/enriquesalas506/votopilas.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E8E25ECA4B259B460C4EC6F728FE4E39835CA544</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E8E25ECA4B259B460C4EC6F728FE4E39835CA544</string>
+			<key>IDESourceControlWCCName</key>
+			<string>votopilas</string>
+		</dict>
+	</array>
+</dict>
+</plist>
